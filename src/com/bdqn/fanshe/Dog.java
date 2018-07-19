@@ -12,7 +12,7 @@ public class Dog {
 		
 	}
 	//private 修饰  有参构造ccc
-	//publicgong
+	//publicgong//
 	private Dog(String name) {
 		this.name=name;
 	}
