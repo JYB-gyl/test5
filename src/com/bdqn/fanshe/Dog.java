@@ -11,7 +11,8 @@ public class Dog {
 	public Dog() {
 		
 	}
-	//private 修饰  有参构造
+	//private 修饰  有参构造ccc
+	//publicgong
 	private Dog(String name) {
 		this.name=name;
 	}
